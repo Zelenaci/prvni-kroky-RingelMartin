@@ -1,6 +1,6 @@
 Online zdroje
 =======================
-
+změna by Ringi
  * Velice zdařila komunitní stránka je <http://python.cz>. Najdete tu vše, co 
    začátečník potřebuje včetně diskusních skupin a chatu.
  
